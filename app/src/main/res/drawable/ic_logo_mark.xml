@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 앱 로고 마크(교대 화살표 링 + 체크). 런처 아이콘과 동일 비율. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="1024"
+    android:viewportHeight="1024">
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="76"
+        android:strokeLineCap="round"
+        android:pathData="M362,252.2 A300,300 0 1 0 564.1,216.6" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="76"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M392,512 L472,592 L642,422" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M465.6,199.2 L578.4,135.8 L549.8,297.4 Z" />
+</vector>
